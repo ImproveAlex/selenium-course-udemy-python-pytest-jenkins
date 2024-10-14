@@ -1,0 +1,272 @@
+2024-10-14 17:09:36,520 :INFO : test_e2e :We have added item to shoping cart
+2024-10-14 17:09:36,549 :INFO : test_e2e :Products found:iphone X
+2024-10-14 17:09:36,573 :INFO : test_e2e :Products found:Samsung Note 8
+2024-10-14 17:09:36,600 :INFO : test_e2e :Products found:Nokia Edge
+2024-10-14 17:09:36,626 :INFO : test_e2e :Products found:Blackberry
+2024-10-14 17:09:36,824 :INFO : test_e2e :Searching for spain
+2024-10-14 17:09:42,192 :INFO : test_e2e :Purchase Successful
+2024-10-14 17:09:45,623 :INFO : test_form_submission :Testing with user: Alex
+2024-10-14 17:09:45,850 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:09:46,268 :INFO : test_form_submission :Testing with user: Alvaro
+2024-10-14 17:09:46,432 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:09:46,797 :INFO : test_form_submission :Testing with user: Andra
+2024-10-14 17:09:46,969 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:11:53,040 :INFO : test_e2e :We have added item to shoping cart
+2024-10-14 17:11:53,064 :INFO : test_e2e :Products found:iphone X
+2024-10-14 17:11:53,084 :INFO : test_e2e :Products found:Samsung Note 8
+2024-10-14 17:11:53,103 :INFO : test_e2e :Products found:Nokia Edge
+2024-10-14 17:11:53,121 :INFO : test_e2e :Products found:Blackberry
+2024-10-14 17:11:53,300 :INFO : test_e2e :Searching for spain
+2024-10-14 17:11:58,655 :INFO : test_e2e :Purchase Successful
+2024-10-14 17:12:02,138 :INFO : test_form_submission :Testing with user: Alex
+2024-10-14 17:12:02,366 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:12:02,867 :INFO : test_form_submission :Testing with user: Alvaro
+2024-10-14 17:12:03,029 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:12:03,463 :INFO : test_form_submission :Testing with user: Andra
+2024-10-14 17:12:03,644 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:23:59,397 :INFO : test_e2e :We have added item to shoping cart
+2024-10-14 17:23:59,421 :INFO : test_e2e :Products found:iphone X
+2024-10-14 17:23:59,439 :INFO : test_e2e :Products found:Samsung Note 8
+2024-10-14 17:23:59,459 :INFO : test_e2e :Products found:Nokia Edge
+2024-10-14 17:23:59,477 :INFO : test_e2e :Products found:Blackberry
+2024-10-14 17:23:59,645 :INFO : test_e2e :Searching for spain
+2024-10-14 17:24:08,427 :INFO : test_form_submission :Testing with user: Alex
+2024-10-14 17:24:08,646 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:24:09,082 :INFO : test_form_submission :Testing with user: Alvaro
+2024-10-14 17:24:09,235 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:24:09,647 :INFO : test_form_submission :Testing with user: Andra
+2024-10-14 17:24:09,817 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:28:03,992 :INFO : test_e2e :We have added item to shoping cart
+2024-10-14 17:28:04,016 :INFO : test_e2e :Products found:iphone X
+2024-10-14 17:28:04,035 :INFO : test_e2e :Products found:Samsung Note 8
+2024-10-14 17:28:04,054 :INFO : test_e2e :Products found:Nokia Edge
+2024-10-14 17:28:04,072 :INFO : test_e2e :Products found:Blackberry
+2024-10-14 17:28:04,238 :INFO : test_e2e :Searching for spain
+2024-10-14 17:28:13,212 :INFO : test_form_submission :Testing with user: Alex
+2024-10-14 17:28:13,428 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:28:13,864 :INFO : test_form_submission :Testing with user: Alvaro
+2024-10-14 17:28:14,020 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:28:14,491 :INFO : test_form_submission :Testing with user: Andra
+2024-10-14 17:28:14,701 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:47:09,152 :INFO : test_e2e :We have added item to shoping cart
+2024-10-14 17:47:09,178 :INFO : test_e2e :Products found:iphone X
+2024-10-14 17:47:09,199 :INFO : test_e2e :Products found:Samsung Note 8
+2024-10-14 17:47:09,218 :INFO : test_e2e :Products found:Nokia Edge
+2024-10-14 17:47:09,237 :INFO : test_e2e :Products found:Blackberry
+2024-10-14 17:47:09,417 :INFO : test_e2e :Searching for spain
+2024-10-14 17:47:18,393 :INFO : test_form_submission :Testing with user: Alex
+2024-10-14 17:47:18,655 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:47:19,063 :INFO : test_form_submission :Testing with user: Alvaro
+2024-10-14 17:47:19,222 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:47:19,601 :INFO : test_form_submission :Testing with user: Andra
+2024-10-14 17:47:19,782 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:49:42,164 :INFO : test_e2e :We have added item to shoping cart
+2024-10-14 17:49:42,188 :INFO : test_e2e :Products found:iphone X
+2024-10-14 17:49:42,210 :INFO : test_e2e :Products found:Samsung Note 8
+2024-10-14 17:49:42,229 :INFO : test_e2e :Products found:Nokia Edge
+2024-10-14 17:49:42,248 :INFO : test_e2e :Products found:Blackberry
+2024-10-14 17:49:42,425 :INFO : test_e2e :Searching for spain
+2024-10-14 17:49:47,796 :INFO : test_e2e :Purchase Successful
+2024-10-14 17:49:51,180 :INFO : test_form_submission :Testing with user: Alex
+2024-10-14 17:49:51,393 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:49:51,775 :INFO : test_form_submission :Testing with user: Alvaro
+2024-10-14 17:49:51,926 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:49:52,288 :INFO : test_form_submission :Testing with user: Andra
+2024-10-14 17:49:52,461 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:53:52,570 :INFO : test_e2e :We have added item to shoping cart
+2024-10-14 17:53:52,595 :INFO : test_e2e :Products found:iphone X
+2024-10-14 17:53:52,615 :INFO : test_e2e :Products found:Samsung Note 8
+2024-10-14 17:53:52,635 :INFO : test_e2e :Products found:Nokia Edge
+2024-10-14 17:53:52,655 :INFO : test_e2e :Products found:Blackberry
+2024-10-14 17:53:52,819 :INFO : test_e2e :Searching for spain
+2024-10-14 17:53:58,189 :INFO : test_e2e :Purchase Successful
+2024-10-14 17:54:01,577 :INFO : test_form_submission :Testing with user: Alex
+2024-10-14 17:54:01,798 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:54:02,192 :INFO : test_form_submission :Testing with user: Alvaro
+2024-10-14 17:54:02,347 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:54:02,732 :INFO : test_form_submission :Testing with user: Andra
+2024-10-14 17:54:02,912 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:55:28,965 :INFO : test_e2e :We have added item to shoping cart
+2024-10-14 17:55:28,991 :INFO : test_e2e :Products found:iphone X
+2024-10-14 17:55:29,016 :INFO : test_e2e :Products found:Samsung Note 8
+2024-10-14 17:55:29,036 :INFO : test_e2e :Products found:Nokia Edge
+2024-10-14 17:55:29,056 :INFO : test_e2e :Products found:Blackberry
+2024-10-14 17:55:29,222 :INFO : test_e2e :Searching for spain
+2024-10-14 17:55:34,643 :INFO : test_e2e :Purchase Successful
+2024-10-14 17:55:39,837 :INFO : test_form_submission :Testing with user: Alex
+2024-10-14 17:55:40,075 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:55:40,485 :INFO : test_form_submission :Testing with user: Alvaro
+2024-10-14 17:55:40,659 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 17:55:41,081 :INFO : test_form_submission :Testing with user: Andra
+2024-10-14 17:55:41,285 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 18:03:41,966 :INFO : test_e2e :We have added item to shoping cart
+2024-10-14 18:03:41,995 :INFO : test_e2e :Products found:iphone X
+2024-10-14 18:03:42,053 :INFO : test_e2e :Products found:Samsung Note 8
+2024-10-14 18:03:42,074 :INFO : test_e2e :Products found:Nokia Edge
+2024-10-14 18:03:42,097 :INFO : test_e2e :Products found:Blackberry
+2024-10-14 18:03:42,280 :INFO : test_e2e :Searching for spain
+2024-10-14 18:03:47,647 :INFO : test_e2e :Purchase Successful
+2024-10-14 18:03:51,096 :INFO : test_form_submission :Testing with user: Alex
+2024-10-14 18:03:51,321 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 18:03:51,723 :INFO : test_form_submission :Testing with user: Alvaro
+2024-10-14 18:03:51,901 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 18:03:52,271 :INFO : test_form_submission :Testing with user: Andra
+2024-10-14 18:03:52,455 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 18:07:28,438 :INFO : test_e2e :We have added item to shoping cart
+2024-10-14 18:07:28,463 :INFO : test_e2e :Products found:iphone X
+2024-10-14 18:07:28,486 :INFO : test_e2e :Products found:Samsung Note 8
+2024-10-14 18:07:28,509 :INFO : test_e2e :Products found:Nokia Edge
+2024-10-14 18:07:28,531 :INFO : test_e2e :Products found:Blackberry
+2024-10-14 18:07:28,711 :INFO : test_e2e :Searching for spain
+2024-10-14 18:07:34,110 :INFO : test_e2e :Purchase Successful
+2024-10-14 18:07:37,346 :INFO : test_form_submission :Testing with user: Alex
+2024-10-14 18:07:37,568 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 18:07:37,951 :INFO : test_form_submission :Testing with user: Alvaro
+2024-10-14 18:07:38,102 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 18:07:38,466 :INFO : test_form_submission :Testing with user: Andra
+2024-10-14 18:07:38,653 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 21:28:26,111 :INFO : test_e2e :We have added item to shoping cart
+2024-10-14 21:28:26,137 :INFO : test_e2e :Products found:iphone X
+2024-10-14 21:28:26,161 :INFO : test_e2e :Products found:Samsung Note 8
+2024-10-14 21:28:26,182 :INFO : test_e2e :Products found:Nokia Edge
+2024-10-14 21:28:26,204 :INFO : test_e2e :Products found:Blackberry
+2024-10-14 21:28:26,381 :INFO : test_e2e :Searching for spain
+2024-10-14 21:28:53,770 :INFO : test_e2e :We have added item to shoping cart
+2024-10-14 21:28:53,815 :INFO : test_e2e :Products found:iphone X
+2024-10-14 21:28:53,833 :INFO : test_e2e :Products found:Samsung Note 8
+2024-10-14 21:28:53,851 :INFO : test_e2e :Products found:Nokia Edge
+2024-10-14 21:28:53,868 :INFO : test_e2e :Products found:Blackberry
+2024-10-14 21:28:54,046 :INFO : test_e2e :Searching for spain
+2024-10-14 21:28:59,449 :INFO : test_e2e :Purchase Successful
+2024-10-14 21:29:02,940 :INFO : test_form_submission :Testing with user: alex
+2024-10-14 21:29:03,150 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 21:29:03,569 :INFO : test_form_submission :Testing with user: alvaro
+2024-10-14 21:29:03,716 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 21:29:04,126 :INFO : test_form_submission :Testing with user: pedro
+2024-10-14 21:29:04,291 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 21:29:04,695 :INFO : test_form_submission :Testing with user: jesus
+2024-10-14 21:29:04,867 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 21:29:05,272 :INFO : test_form_submission :Testing with user: miguel
+2024-10-14 21:29:05,442 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 21:29:05,863 :INFO : test_form_submission :Testing with user: pepe
+2024-10-14 21:29:06,005 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 22:22:49,001 :INFO : test_e2e :We have added item to shoping cart
+2024-10-14 22:22:49,039 :INFO : test_e2e :Products found:iphone X
+2024-10-14 22:22:49,069 :INFO : test_e2e :Products found:Samsung Note 8
+2024-10-14 22:22:49,091 :INFO : test_e2e :Products found:Nokia Edge
+2024-10-14 22:22:49,112 :INFO : test_e2e :Products found:Blackberry
+2024-10-14 22:22:49,289 :INFO : test_e2e :Searching for spain
+2024-10-14 22:22:54,665 :INFO : test_e2e :Purchase Successful
+2024-10-14 22:22:58,112 :INFO : test_form_submission :Testing with user: alex
+2024-10-14 22:22:58,383 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 22:22:58,779 :INFO : test_form_submission :Testing with user: alvaro
+2024-10-14 22:22:58,944 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 22:22:59,328 :INFO : test_form_submission :Testing with user: pedro
+2024-10-14 22:22:59,513 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 22:22:59,908 :INFO : test_form_submission :Testing with user: jesus
+2024-10-14 22:23:00,116 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 22:23:00,503 :INFO : test_form_submission :Testing with user: miguel
+2024-10-14 22:23:00,694 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 22:23:01,062 :INFO : test_form_submission :Testing with user: pepe
+2024-10-14 22:23:01,235 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 22:23:55,627 :INFO : test_e2e :We have added item to shoping cart
+2024-10-14 22:23:55,651 :INFO : test_e2e :Products found:iphone X
+2024-10-14 22:23:55,673 :INFO : test_e2e :Products found:Samsung Note 8
+2024-10-14 22:23:55,692 :INFO : test_e2e :Products found:Nokia Edge
+2024-10-14 22:23:55,711 :INFO : test_e2e :Products found:Blackberry
+2024-10-14 22:23:55,894 :INFO : test_e2e :Searching for spain
+2024-10-14 22:24:01,314 :INFO : test_e2e :Purchase Successful
+2024-10-14 22:24:06,762 :INFO : test_form_submission :Testing with user: alex
+2024-10-14 22:24:07,008 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 22:24:07,428 :INFO : test_form_submission :Testing with user: alvaro
+2024-10-14 22:24:07,603 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 22:24:08,004 :INFO : test_form_submission :Testing with user: pedro
+2024-10-14 22:24:08,201 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 22:24:08,594 :INFO : test_form_submission :Testing with user: jesus
+2024-10-14 22:24:08,814 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 22:24:09,209 :INFO : test_form_submission :Testing with user: miguel
+2024-10-14 22:24:09,413 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 22:24:09,801 :INFO : test_form_submission :Testing with user: pepe
+2024-10-14 22:24:09,970 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 22:27:13,883 :INFO : test_e2e :We have added item to shoping cart
+2024-10-14 22:27:13,954 :INFO : test_e2e :Products found:iphone X
+2024-10-14 22:27:14,047 :INFO : test_e2e :Products found:Samsung Note 8
+2024-10-14 22:27:14,070 :INFO : test_e2e :Products found:Nokia Edge
+2024-10-14 22:27:14,115 :INFO : test_e2e :Products found:Blackberry
+2024-10-14 22:27:14,967 :INFO : test_e2e :Searching for spain
+2024-10-14 22:27:20,686 :INFO : test_e2e :Purchase Successful
+2024-10-14 22:27:29,141 :INFO : test_form_submission :Testing with user: alex
+2024-10-14 22:27:30,041 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 22:27:31,647 :INFO : test_form_submission :Testing with user: alvaro
+2024-10-14 22:27:32,330 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 22:27:34,078 :INFO : test_form_submission :Testing with user: pedro
+2024-10-14 22:27:34,998 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 22:27:36,778 :INFO : test_form_submission :Testing with user: jesus
+2024-10-14 22:27:37,681 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 22:27:39,446 :INFO : test_form_submission :Testing with user: miguel
+2024-10-14 22:27:40,349 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 22:27:42,116 :INFO : test_form_submission :Testing with user: pepe
+2024-10-14 22:27:42,796 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 22:32:42,690 :INFO : test_form_submission :Testing with user: alex
+2024-10-14 22:32:42,952 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 22:32:43,411 :INFO : test_form_submission :Testing with user: alvaro
+2024-10-14 22:32:43,615 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
+2024-10-14 22:32:44,097 :INFO : test_form_submission :Testing with user: pedro
+2024-10-14 22:32:44,277 :INFO : test_form_submission :×
+Success! The Form has been submitted successfully!.
